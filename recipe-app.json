@@ -1,6 +1,7 @@
 [
   {
     "title": "Vegetarian Chili",
+    "id": 1,
     "ingredients": [
       {
         "NAME": "Black Beans",
@@ -43,6 +44,7 @@
   },
   {
     "title": "Shrimp Scampi",
+    "id": 2,
     "ingredients": [
       {
         "NAME": "Shrimp",
@@ -77,6 +79,7 @@
   },
   {
     "title": "Vegan Buddha Bowl",
+    "id": 3,
     "ingredients": [
       {
         "NAME": "Quinoa",
@@ -107,6 +110,7 @@
   },
   {
     "title": "Spaghetti Bolognese",
+    "id": 4,
     "ingredients": [
       {
         "NAME": "Spaghetti",
@@ -137,6 +141,7 @@
   },
   {
     "title": "Chicken Caesar Salad",
+    "id": 5,
     "ingredients": [
       {
         "NAME": "Chicken Breast",
@@ -163,6 +168,7 @@
   },
   {
     "title": "Chocolate Chip Cookies",
+    "id": 6,
     "ingredients": [
       {
         "NAME": "All-Purpose Flour",
@@ -193,6 +199,7 @@
   },
   {
     "title": "Grilled Salmon",
+    "id": 7,
     "ingredients": [
       {
         "NAME": "Salmon Fillets",
@@ -223,6 +230,7 @@
   },
   {
     "title": "Vegetable Stir-Fry",
+    "id": 8,
     "ingredients": [
       {
         "NAME": "Broccoli",
@@ -257,6 +265,7 @@
   },
   {
     "title": "Margherita Pizza",
+    "id": 9,
     "ingredients": [
       {
         "NAME": "Pizza Dough",
