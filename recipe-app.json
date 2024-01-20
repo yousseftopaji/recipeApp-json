@@ -5,39 +5,48 @@
     "ingredients": [
       {
         "NAME": "Black Beans",
-        "AMOUNT": "1 can, drained and rinsed"
+        "AMOUNT": "1 can, drained and rinsed",
+        "price": 10
       },
       {
         "NAME": "Kidney Beans",
-        "AMOUNT": "1 can, drained and rinsed"
+        "AMOUNT": "1 can, drained and rinsed",
+        "price": 12
       },
       {
         "NAME": "Tomatoes",
-        "AMOUNT": "1 can, diced"
+        "AMOUNT": "1 can, diced",
+        "price": 8
       },
       {
         "NAME": "Onion",
-        "AMOUNT": "1, chopped"
+        "AMOUNT": "1, chopped",
+        "price": 5
       },
       {
         "NAME": "Bell Pepper",
-        "AMOUNT": "1, chopped"
+        "AMOUNT": "1, chopped",
+        "price": 6
       },
       {
         "NAME": "Garlic",
-        "AMOUNT": "3 cloves, minced"
+        "AMOUNT": "3 cloves, minced",
+        "price": 3
       },
       {
         "NAME": "Chili Powder",
-        "AMOUNT": "2 tbsp"
+        "AMOUNT": "2 tbsp",
+        "price": 15
       },
       {
         "NAME": "Cumin",
-        "AMOUNT": "1 tbsp"
+        "AMOUNT": "1 tbsp",
+        "price": 10
       },
       {
         "NAME": "Vegetable Broth",
-        "AMOUNT": "2 cups"
+        "AMOUNT": "2 cups",
+        "price": 20
       }
     ],
     "Instructions": "Sauté onion, bell pepper, and garlic; add beans, tomatoes, spices, and broth; simmer until flavors meld."
@@ -48,31 +57,38 @@
     "ingredients": [
       {
         "NAME": "Shrimp",
-        "AMOUNT": "1 lb, peeled and deveined"
+        "AMOUNT": "1 lb, peeled and deveined",
+        "price": 40
       },
       {
         "NAME": "Linguine",
-        "AMOUNT": "8 oz"
+        "AMOUNT": "8 oz",
+        "price": 15
       },
       {
         "NAME": "Butter",
-        "AMOUNT": "1/2 cup"
+        "AMOUNT": "1/2 cup",
+        "price": 25
       },
       {
         "NAME": "Garlic",
-        "AMOUNT": "4 cloves, minced"
+        "AMOUNT": "4 cloves, minced",
+        "price": 3
       },
       {
         "NAME": "White Wine",
-        "AMOUNT": "1/2 cup"
+        "AMOUNT": "1/2 cup",
+        "price": 30
       },
       {
         "NAME": "Lemon Juice",
-        "AMOUNT": "2 tbsp"
+        "AMOUNT": "2 tbsp",
+        "price": 10
       },
       {
         "NAME": "Parsley",
-        "AMOUNT": "2 tbsp, chopped"
+        "AMOUNT": "2 tbsp, chopped",
+        "price": 8
       }
     ],
     "Instructions": "Cook linguine; sauté shrimp and garlic in butter; add white wine, lemon juice, and parsley; toss with pasta."
@@ -83,27 +99,33 @@
     "ingredients": [
       {
         "NAME": "Quinoa",
-        "AMOUNT": "1 cup, cooked"
+        "AMOUNT": "1 cup, cooked",
+        "price": 18
       },
       {
         "NAME": "Chickpeas",
-        "AMOUNT": "1 can, drained and roasted"
+        "AMOUNT": "1 can, drained and roasted",
+        "price": 12
       },
       {
         "NAME": "Kale",
-        "AMOUNT": "2 cups, chopped"
+        "AMOUNT": "2 cups, chopped",
+        "price": 10
       },
       {
         "NAME": "Carrots",
-        "AMOUNT": "2, shredded"
+        "AMOUNT": "2, shredded",
+        "price": 8
       },
       {
         "NAME": "Avocado",
-        "AMOUNT": "1, sliced"
+        "AMOUNT": "1, sliced",
+        "price": 15
       },
       {
         "NAME": "Tahini Dressing",
-        "AMOUNT": "1/4 cup"
+        "AMOUNT": "1/4 cup",
+        "price": 25
       }
     ],
     "Instructions": "Assemble bowl with quinoa, chickpeas, kale, carrots, and avocado; drizzle with tahini dressing."
@@ -114,27 +136,33 @@
     "ingredients": [
       {
         "NAME": "Spaghetti",
-        "AMOUNT": "200g"
+        "AMOUNT": "200g",
+        "price": 15
       },
       {
         "NAME": "Ground Beef",
-        "AMOUNT": "300g"
+        "AMOUNT": "300g",
+        "price": 30
       },
       {
         "NAME": "Tomato Sauce",
-        "AMOUNT": "1 cup"
+        "AMOUNT": "1 cup",
+        "price": 12
       },
       {
         "NAME": "Onion",
-        "AMOUNT": "1, finely chopped"
+        "AMOUNT": "1, finely chopped",
+        "price": 5
       },
       {
         "NAME": "Garlic",
-        "AMOUNT": "2 cloves, minced"
+        "AMOUNT": "2 cloves, minced",
+        "price": 3
       },
       {
         "NAME": "Olive Oil",
-        "AMOUNT": "2 tbsp"
+        "AMOUNT": "2 tbsp",
+        "price": 20
       }
     ],
     "Instructions": "Cook spaghetti; brown beef, onion, and garlic; add tomato sauce; simmer and serve."
@@ -145,23 +173,28 @@
     "ingredients": [
       {
         "NAME": "Chicken Breast",
-        "AMOUNT": "2, cooked and sliced"
+        "AMOUNT": "2, cooked and sliced",
+        "price": 35
       },
       {
         "NAME": "Romaine Lettuce",
-        "AMOUNT": "1 head, chopped"
+        "AMOUNT": "1 head, chopped",
+        "price": 10
       },
       {
         "NAME": "Croutons",
-        "AMOUNT": "1 cup"
+        "AMOUNT": "1 cup",
+        "price": 8
       },
       {
         "NAME": "Parmesan Cheese",
-        "AMOUNT": "1/2 cup, grated"
+        "AMOUNT": "1/2 cup, grated",
+        "price": 15
       },
       {
         "NAME": "Caesar Dressing",
-        "AMOUNT": "1/2 cup"
+        "AMOUNT": "1/2 cup",
+        "price": 25
       }
     ],
     "Instructions": "Combine lettuce, chicken, croutons, and Parmesan; toss with Caesar dressing; serve."
@@ -172,27 +205,33 @@
     "ingredients": [
       {
         "NAME": "All-Purpose Flour",
-        "AMOUNT": "2 cups"
+        "AMOUNT": "2 cups",
+        "price": 10
       },
       {
         "NAME": "Butter",
-        "AMOUNT": "1 cup, softened"
+        "AMOUNT": "1 cup, softened",
+        "price": 20
       },
       {
         "NAME": "Brown Sugar",
-        "AMOUNT": "1 cup"
+        "AMOUNT": "1 cup",
+        "price": 15
       },
       {
         "NAME": "Eggs",
-        "AMOUNT": "2"
+        "AMOUNT": "2",
+        "price": 12
       },
       {
         "NAME": "Vanilla Extract",
-        "AMOUNT": "1 tsp"
+        "AMOUNT": "1 tsp",
+        "price": 15
       },
       {
         "NAME": "Chocolate Chips",
-        "AMOUNT": "2 cups"
+        "AMOUNT": "2 cups",
+        "price": 20
       }
     ],
     "Instructions": "Cream butter and sugar; add eggs and vanilla; mix in flour and chocolate chips; bake."
@@ -203,27 +242,33 @@
     "ingredients": [
       {
         "NAME": "Salmon Fillets",
-        "AMOUNT": "4"
+        "AMOUNT": "4",
+        "price": 45
       },
       {
         "NAME": "Lemon",
-        "AMOUNT": "1, sliced"
+        "AMOUNT": "1, sliced",
+        "price": 5
       },
       {
         "NAME": "Olive Oil",
-        "AMOUNT": "2 tbsp"
+        "AMOUNT": "2 tbsp",
+        "price": 20
       },
       {
         "NAME": "Garlic Powder",
-        "AMOUNT": "1 tsp"
+        "AMOUNT": "1 tsp",
+        "price": 8
       },
       {
         "NAME": "Dill",
-        "AMOUNT": "1 tbsp, chopped"
+        "AMOUNT": "1 tbsp, chopped",
+        "price": 10
       },
       {
         "NAME": "Salt and Pepper",
-        "AMOUNT": "To taste"
+        "AMOUNT": "To taste",
+        "price": 5
       }
     ],
     "Instructions": "Marinate salmon with olive oil, garlic powder, dill, salt, and pepper; grill until cooked; garnish with lemon slices."
@@ -234,31 +279,38 @@
     "ingredients": [
       {
         "NAME": "Broccoli",
-        "AMOUNT": "1 cup, florets"
+        "AMOUNT": "1 cup, florets",
+        "price": 10
       },
       {
         "NAME": "Carrots",
-        "AMOUNT": "2, julienned"
+        "AMOUNT": "2, julienned",
+        "price": 8
       },
       {
         "NAME": "Bell Pepper",
-        "AMOUNT": "1, sliced"
+        "AMOUNT": "1, sliced",
+        "price": 6
       },
       {
         "NAME": "Snow Peas",
-        "AMOUNT": "1 cup"
+        "AMOUNT": "1 cup",
+        "price": 12
       },
       {
         "NAME": "Soy Sauce",
-        "AMOUNT": "3 tbsp"
+        "AMOUNT": "3 tbsp",
+        "price": 15
       },
       {
         "NAME": "Ginger",
-        "AMOUNT": "1 tbsp, minced"
+        "AMOUNT": "1 tbsp, minced",
+        "price": 8
       },
       {
         "NAME": "Garlic",
-        "AMOUNT": "2 cloves, minced"
+        "AMOUNT": "2 cloves, minced",
+        "price": 3
       }
     ],
     "Instructions": "Stir-fry vegetables in a wok with soy sauce, ginger, and garlic until tender-crisp; serve over rice or noodles."
@@ -269,29 +321,176 @@
     "ingredients": [
       {
         "NAME": "Pizza Dough",
-        "AMOUNT": "1 ball"
+        "AMOUNT": "1 ball",
+        "price": 20
       },
       {
         "NAME": "Tomatoes",
-        "AMOUNT": "2, sliced"
+        "AMOUNT": "2, sliced",
+        "price": 8
       },
       {
         "NAME": "Fresh Mozzarella",
-        "AMOUNT": "200g, sliced"
+        "AMOUNT": "200g, sliced",
+        "price": 30
       },
       {
         "NAME": "Fresh Basil",
-        "AMOUNT": "1/2 cup, chopped"
+        "AMOUNT": "1/2 cup, chopped",
+        "price": 10
       },
       {
         "NAME": "Olive Oil",
-        "AMOUNT": "2 tbsp"
+        "AMOUNT": "2 tbsp",
+        "price": 20
       },
       {
         "NAME": "Salt",
-        "AMOUNT": "To taste"
+        "AMOUNT": "To taste",
+        "price": 5
       }
     ],
     "Instructions": "Roll out pizza dough; top with sliced tomatoes, mozzarella, and basil; drizzle with olive oil; bake until crust is golden."
+  },
+  {
+    "title": "Chicken Alfredo",
+    "id": 10,
+    "ingredients": [
+      {
+        "NAME": "Fettuccine Pasta",
+        "AMOUNT": "8 oz",
+        "price": 12
+      },
+      {
+        "NAME": "Chicken Breast",
+        "AMOUNT": "1 lb, cooked and sliced",
+        "price": 35
+      },
+      {
+        "NAME": "Heavy Cream",
+        "AMOUNT": "1 cup",
+        "price": 20
+      },
+      {
+        "NAME": "Parmesan Cheese",
+        "AMOUNT": "1 cup, grated",
+        "price": 15
+      },
+      {
+        "NAME": "Butter",
+        "AMOUNT": "2 tbsp",
+        "price": 25
+      },
+      {
+        "NAME": "Garlic",
+        "AMOUNT": "2 cloves, minced",
+        "price": 3
+      },
+      {
+        "NAME": "Salt and Pepper",
+        "AMOUNT": "To taste",
+        "price": 5
+      },
+      {
+        "NAME": "Parsley",
+        "AMOUNT": "2 tbsp, chopped",
+        "price": 8
+      }
+    ],
+    "Instructions": "Cook fettuccine pasta; sauté chicken and garlic in butter; add heavy cream, Parmesan cheese, salt, and pepper; toss with pasta; garnish with parsley."
+  },
+  {
+    "title": "Caprese Salad",
+    "id": 11,
+    "ingredients": [
+      {
+        "NAME": "Tomatoes",
+        "AMOUNT": "4, sliced",
+        "price": 8
+      },
+      {
+        "NAME": "Fresh Mozzarella",
+        "AMOUNT": "200g, sliced",
+        "price": 30
+      },
+      {
+        "NAME": "Fresh Basil",
+        "AMOUNT": "1/2 cup, chopped",
+        "price": 10
+      },
+      {
+        "NAME": "Balsamic Glaze",
+        "AMOUNT": "2 tbsp",
+        "price": 15
+      },
+      {
+        "NAME": "Olive Oil",
+        "AMOUNT": "2 tbsp",
+        "price": 20
+      },
+      {
+        "NAME": "Salt and Pepper",
+        "AMOUNT": "To taste",
+        "price": 5
+      }
+    ],
+    "Instructions": "Arrange tomato and mozzarella slices on a plate; sprinkle with fresh basil; drizzle with balsamic glaze and olive oil; season with salt and pepper."
+  },
+  {
+    "title": "Mushroom Risotto",
+    "id": 12,
+    "ingredients": [
+      {
+        "NAME": "Arborio Rice",
+        "AMOUNT": "1 cup",
+        "price": 10
+      },
+      {
+        "NAME": "Mushrooms",
+        "AMOUNT": "1 cup, sliced",
+        "price": 12
+      },
+      {
+        "NAME": "Onion",
+        "AMOUNT": "1, finely chopped",
+        "price": 5
+      },
+      {
+        "NAME": "Chicken or Vegetable Broth",
+        "AMOUNT": "4 cups",
+        "price": 20
+      },
+      {
+        "NAME": "White Wine",
+        "AMOUNT": "1/2 cup",
+        "price": 30
+      },
+      {
+        "NAME": "Parmesan Cheese",
+        "AMOUNT": "1/2 cup, grated",
+        "price": 15
+      },
+      {
+        "NAME": "Butter",
+        "AMOUNT": "2 tbsp",
+        "price": 25
+      },
+      {
+        "NAME": "Garlic",
+        "AMOUNT": "2 cloves, minced",
+        "price": 3
+      },
+      {
+        "NAME": "Salt and Pepper",
+        "AMOUNT": "To taste",
+        "price": 5
+      },
+      {
+        "NAME": "Fresh Parsley",
+        "AMOUNT": "2 tbsp, chopped",
+        "price": 8
+      }
+    ],
+    "Instructions": "Sauté onion and garlic in butter; add rice and mushrooms; deglaze with white wine; gradually add broth; stir until creamy; finish with Parmesan cheese, salt, and pepper; garnish with fresh parsley."
   }
 ]
